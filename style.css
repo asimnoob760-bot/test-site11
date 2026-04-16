@@ -1,0 +1,31 @@
+body {
+    background-color: #F0F1F6; /* Light background */
+    font-family: Arial, sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #5A5E91; /* Dull purple */
+}
+
+.header {
+    background-color: #3A4E8C; /* Dull blue */
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+.button {
+    background-color: #F6D74C; /* Dull yellow */
+    color: #333;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.button:hover {
+    opacity: 0.8;
+}
